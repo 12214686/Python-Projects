@@ -3,7 +3,7 @@
 <br>
 <br>
 
-___This is a `Guess Game` written in Python version ___
+***This is a `Guess Game` written in Python version ***
 
 ### Modules Used
 
